@@ -1,7 +1,7 @@
 exampleVariable = 24
 
 #change this variable so it copy's exampleVariable's value
-changeThisVariable = "change this value"
+changeThisVariable = exampleVariable
 
 print("changeThisVariable = ",changeThisVariable)
 
